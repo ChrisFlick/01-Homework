@@ -12,8 +12,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
-    
+    font-size: 1.25vw;
 }
 
 /* Change the color of links on hover */
@@ -30,11 +29,12 @@
 
   .name {
     background-color: black;
-    height: 3vw;
+    height: 5vw;
     width: 100vw;
   }
 
   .name h1 {
     color: #f2f2f2;
-    padding: 5px 16px;
+    padding: .5vw 1vw;
+    font-size: 3vw;
   }
