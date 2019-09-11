@@ -19,7 +19,7 @@ header {
     float: left; 
 
     text-align: center;
-    left: 290px;
+    left: 20vw;
   }
 
   .name h1 {
@@ -76,8 +76,7 @@ h2 {
     color: #777777;
 
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
+    left: 20vw;
     display: block;
     
     background-color: #ffffff;
