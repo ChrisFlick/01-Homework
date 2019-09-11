@@ -83,6 +83,7 @@ h2 {
     border-color: #dddddd;
 
     width: 960px;
+    min-height: 400px;
    
     margin: 50hw;
     display: block;
@@ -133,6 +134,8 @@ input {
 }
 
 .portPiece {
+    float: left;
+
     height: 200px;
     width: 200px;
     margin: 15px;
