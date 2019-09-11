@@ -114,12 +114,7 @@ h2 {
     width: 900px;
 }
 
-footer {
-    border-top: 8px solid #4aaaa5;
-    background-color: #666666;
-    width: 100vw;
-    height: 5vw;
-}
+
 
 form {
     margin: 15px; 
@@ -167,3 +162,14 @@ input {
 .portPiece a:hover {
     color: black;
 }
+
+footer {
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    width: 100vw;
+    height: 5vw;
+    position: fixed;
+    top: 90%
+}
+
+
