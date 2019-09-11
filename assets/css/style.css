@@ -164,7 +164,7 @@ input {
     color: #f2f2f2;
 }
 
-.portPiece a:hover {
+.portPiece :hover {
     color: black;
 }
 
